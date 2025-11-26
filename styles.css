@@ -241,7 +241,8 @@ nav a:hover {
 .photoRow img {
     height: 25rem;
     width: auto;
-    border: .5rem solid white;
+    border: .5rem solid #915F6D;
+    border-radius: 10px;
 }
 
 .photoRow img:hover {
